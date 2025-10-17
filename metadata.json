@@ -1,0 +1,7 @@
+{
+  "name": "Music Studio",
+  "description": "An elegant, feature-rich music streaming application inspired by Apple Music's design. It features iTunes integration, local file uploads, playlist management, playback history, a statistics dashboard, voice commands, and a beautiful, responsive UI with dark and light themes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
